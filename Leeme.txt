@@ -1,0 +1,3 @@
+Aquí subiré unos cuatos codigos que he hecho por que estaba aburido, 
+todos son de Python, pero también subiré de JavaScript y mucho otros en un futuro
+pero por el momento, solo Python.
